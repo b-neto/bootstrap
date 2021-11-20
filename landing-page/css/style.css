@@ -1,12 +1,25 @@
+.button-color {
+    color: white;
+    background-color: darkred;
+}
+
+.card-color {
+    border-color: darkred;
+}
+
+.card-width {
+    width: 18rem;
+}
+
 .image-carousel {
     object-fit: cover;
     object-position: 0% 80%;
 }
 
-.title-font {
-    font-family: 'Pacifico', cursive;
-}
-
 .title-color {
     color: darkred;
+}
+
+.title-font {
+    font-family: 'Pacifico', cursive;
 }
